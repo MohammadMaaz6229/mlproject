@@ -1,8 +1,9 @@
+flask
+gunicorn
 pandas
-numpy 
+numpy
 scikit-learn
 catboost
 xgboost-cpu
 dill
-gunicorn
 # -e .
